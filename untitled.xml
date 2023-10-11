@@ -1,0 +1,21 @@
+<yml_catalog date="2023-10-11T23:49:03+03:00">
+<shop>
+<name>ONE WEEK</name>
+<url>https://www.wildberries.ru/catalog/150247237/detail.aspx</url>
+<platform>Wildberries</platform>
+<categories>
+  <category id="1">Все товары</category>
+</categories>
+  <offers>
+      <offer id="3">
+        <name>Женские трусы набор</name>
+        <description>Женские слипы - это нижнее белье, в котором вам будет комфортно каждый день. Набор из натурального хлопка и эластана позволяет коже дышать, неделька состоит из 7 штук. Набор нижнего белья в однотонном дизайне будет сочетаться с любым стилем одежды и благодаря гладкой ткани совершенно незаметно под вещами.</description>
+        <url>https://www.wildberries.ru/catalog/150247237/detail.aspx</url>
+        <price>816</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://i.ibb.co/VCw1SbT/2023-10-05-19-18-55.png</picture>
+      </offer>
+  </offers>
+</shop>
+</yml_catalog>
